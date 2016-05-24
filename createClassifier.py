@@ -22,20 +22,6 @@ def namefd(f): #from xx_xx__nnn.zip to name, filename, fd
   return fname, f, fd
 
 def createClassifiers(positive, negative=None): # item is item.zip file
-#def createClassifiers(item): # item is item.zip file
-  #itemname = positive#item
-  ##try: itemname = item.split('.zip')[0]
-  ##except: pass
-  #try: itemname = positive.split('__')[0]
-  #except: pass
-  #payload = {"name":itemname}
-  #files = [positive, "NOTT_MRI.zip"]
-  #filepath = ['./img/%s'%x for x in files]
-  #fds = [open(filepath[x], 'rb') for x in range(2)]
-  #posneg = {'positive_examples': (files[0], fds[0]),
-  #          'negative_examples': (files[1], fds[1]),}
-  #print repr(payload), repr(posneg)
-
   pos = namefd(positive)
   neg = namefd(negative)
   payload = {"name":pos[0]}
