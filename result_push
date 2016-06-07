@@ -1,0 +1,341 @@
+nohup: ignoring input
+LVH_2CH__000.zip:Normal_2CH__000.zip
+LVH_2CH__000.zip Normal_2CH__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_2CH_461810446', u'name': u'LVH_2CH', u'created': u'2016-05-23T06:32:07.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_2CH_549417406', u'name': u'Normal_2CH', u'created': u'2016-05-23T06:32:23.000Z'}
+LVH_4CH__000.zip:Normal_4CH__001.zip
+LVH_4CH__000.zip Normal_4CH__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1797898064', u'name': u'LVH_4CH', u'created': u'2016-05-23T06:32:43.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1771553088', u'name': u'Normal_4CH', u'created': u'2016-05-23T06:33:05.000Z'}
+Stenosis_SAG__000.zip:Normal_SAG__001.zip
+Stenosis_SAG__000.zip Normal_SAG__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1546014658', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T06:33:45.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1599275319', u'name': u'Normal_SAG', u'created': u'2016-05-23T06:34:47.000Z'}
+LVH_4CH__000.zip:Normal_4CH__002.zip
+LVH_4CH__000.zip Normal_4CH__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_378638391', u'name': u'LVH_4CH', u'created': u'2016-05-23T06:35:13.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_9152040', u'name': u'Normal_4CH', u'created': u'2016-05-23T06:35:33.000Z'}
+Stenosis_SAG__000.zip:Normal_SAG__002.zip
+Stenosis_SAG__000.zip Normal_SAG__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_915230119', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T06:36:30.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_349007844', u'name': u'Normal_SAG', u'created': u'2016-05-23T06:37:27.000Z'}
+LVH_4CH__000.zip:Normal_4CH__003.zip
+LVH_4CH__000.zip Normal_4CH__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1793224734', u'name': u'LVH_4CH', u'created': u'2016-05-23T06:37:48.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_2045478879', u'name': u'Normal_4CH', u'created': u'2016-05-23T06:38:13.000Z'}
+Stenosis_SAG__000.zip:Normal_SAG__003.zip
+Stenosis_SAG__000.zip Normal_SAG__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_553882722', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T06:39:11.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_199978425', u'name': u'Normal_SAG', u'created': u'2016-05-23T06:40:11.000Z'}
+LVH_4CH__000.zip:Normal_4CH__004.zip
+LVH_4CH__000.zip Normal_4CH__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_168380656', u'name': u'LVH_4CH', u'created': u'2016-05-23T06:40:39.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1379065558', u'name': u'Normal_4CH', u'created': u'2016-05-23T06:40:59.000Z'}
+Stenosis_SAG__000.zip:Normal_SAG__004.zip
+Stenosis_SAG__000.zip Normal_SAG__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_713749014', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T06:42:05.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_795523071', u'name': u'Normal_SAG', u'created': u'2016-05-23T06:42:51.000Z'}
+LVH_4CH__000.zip:Normal_4CH__005.zip
+LVH_4CH__000.zip Normal_4CH__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1807555787', u'name': u'LVH_4CH', u'created': u'2016-05-23T06:43:19.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1341181881', u'name': u'Normal_4CH', u'created': u'2016-05-23T06:43:39.000Z'}
+Stenosis_SAG__000.zip:Normal_SAG__005.zip
+Stenosis_SAG__000.zip Normal_SAG__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1345309611', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T06:44:34.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_829721056', u'name': u'Normal_SAG', u'created': u'2016-05-23T06:45:40.000Z'}
+LVH_4CH__000.zip:Normal_4CH__006.zip
+LVH_4CH__000.zip Normal_4CH__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1314572621', u'name': u'LVH_4CH', u'created': u'2016-05-23T06:45:52.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_781304734', u'name': u'Normal_4CH', u'created': u'2016-05-23T06:46:19.000Z'}
+Stenosis_SAG__000.zip:Normal_SAG__006.zip
+Stenosis_SAG__000.zip Normal_SAG__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_666029177', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T06:46:54.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1234365868', u'name': u'Normal_SAG', u'created': u'2016-05-23T06:47:37.000Z'}
+LVH_4CH__001.zip:Normal_4CH__000.zip
+LVH_4CH__001.zip Normal_4CH__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1220973775', u'name': u'LVH_4CH', u'created': u'2016-05-23T06:48:06.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_449852707', u'name': u'Normal_4CH', u'created': u'2016-05-23T06:48:34.000Z'}
+Stenosis_SAG__001.zip:Normal_SAG__000.zip
+Stenosis_SAG__001.zip Normal_SAG__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1059059390', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T06:49:28.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1231268170', u'name': u'Normal_SAG', u'created': u'2016-05-23T06:50:24.000Z'}
+LVH_4CH__001.zip:Normal_4CH__002.zip
+LVH_4CH__001.zip Normal_4CH__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1818033034', u'name': u'LVH_4CH', u'created': u'2016-05-23T06:50:53.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1211362532', u'name': u'Normal_4CH', u'created': u'2016-05-23T06:51:13.000Z'}
+Stenosis_SAG__001.zip:Normal_SAG__002.zip
+Stenosis_SAG__001.zip Normal_SAG__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_170467686', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T06:52:12.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1158043826', u'name': u'Normal_SAG', u'created': u'2016-05-23T06:53:07.000Z'}
+LVH_4CH__001.zip:Normal_4CH__003.zip
+LVH_4CH__001.zip Normal_4CH__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1394319712', u'name': u'LVH_4CH', u'created': u'2016-05-23T06:53:32.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1420461200', u'name': u'Normal_4CH', u'created': u'2016-05-23T06:53:49.000Z'}
+Stenosis_SAG__001.zip:Normal_SAG__003.zip
+Stenosis_SAG__001.zip Normal_SAG__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1622630683', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T06:54:49.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_257989143', u'name': u'Normal_SAG', u'created': u'2016-05-23T06:55:47.000Z'}
+LVH_4CH__001.zip:Normal_4CH__004.zip
+LVH_4CH__001.zip Normal_4CH__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_652116737', u'name': u'LVH_4CH', u'created': u'2016-05-23T06:56:17.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_245899029', u'name': u'Normal_4CH', u'created': u'2016-05-23T06:56:45.000Z'}
+Stenosis_SAG__001.zip:Normal_SAG__004.zip
+Stenosis_SAG__001.zip Normal_SAG__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1877335483', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T06:57:26.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1847917507', u'name': u'Normal_SAG', u'created': u'2016-05-23T06:58:27.000Z'}
+LVH_4CH__001.zip:Normal_4CH__005.zip
+LVH_4CH__001.zip Normal_4CH__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_680366390', u'name': u'LVH_4CH', u'created': u'2016-05-23T06:58:48.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1870368888', u'name': u'Normal_4CH', u'created': u'2016-05-23T06:59:17.000Z'}
+Stenosis_SAG__001.zip:Normal_SAG__005.zip
+Stenosis_SAG__001.zip Normal_SAG__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1288092564', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:00:20.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1178030254', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:01:37.000Z'}
+LVH_4CH__001.zip:Normal_4CH__006.zip
+LVH_4CH__001.zip Normal_4CH__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1546469648', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:02:05.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_399918881', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:02:33.000Z'}
+Stenosis_SAG__001.zip:Normal_SAG__006.zip
+Stenosis_SAG__001.zip Normal_SAG__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_750753255', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:03:17.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_338736086', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:03:56.000Z'}
+LVH_4CH__002.zip:Normal_4CH__000.zip
+LVH_4CH__002.zip Normal_4CH__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_626866058', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:04:25.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1940168831', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:04:53.000Z'}
+Stenosis_SAG__002.zip:Normal_SAG__000.zip
+Stenosis_SAG__002.zip Normal_SAG__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1244662930', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:05:50.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1091106118', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:06:43.000Z'}
+LVH_4CH__002.zip:Normal_4CH__001.zip
+LVH_4CH__002.zip Normal_4CH__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1841995880', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:07:10.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_912861506', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:07:40.000Z'}
+Stenosis_SAG__002.zip:Normal_SAG__001.zip
+Stenosis_SAG__002.zip Normal_SAG__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_734323650', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:08:20.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_613179488', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:09:01.000Z'}
+LVH_4CH__002.zip:Normal_4CH__003.zip
+LVH_4CH__002.zip Normal_4CH__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1710659776', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:09:13.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_786030507', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:09:37.000Z'}
+Stenosis_SAG__002.zip:Normal_SAG__003.zip
+Stenosis_SAG__002.zip Normal_SAG__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1506376853', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:10:23.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_237163770', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:11:22.000Z'}
+LVH_4CH__002.zip:Normal_4CH__004.zip
+LVH_4CH__002.zip Normal_4CH__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1241946933', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:11:42.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_732834729', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:11:54.000Z'}
+Stenosis_SAG__002.zip:Normal_SAG__004.zip
+Stenosis_SAG__002.zip Normal_SAG__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_103022156', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:12:38.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_266549436', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:13:39.000Z'}
+LVH_4CH__002.zip:Normal_4CH__005.zip
+LVH_4CH__002.zip Normal_4CH__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1000482629', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:13:57.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1140731933', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:14:18.000Z'}
+Stenosis_SAG__002.zip:Normal_SAG__005.zip
+Stenosis_SAG__002.zip Normal_SAG__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_301457830', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:15:21.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1550120160', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:15:45.000Z'}
+LVH_4CH__002.zip:Normal_4CH__006.zip
+LVH_4CH__002.zip Normal_4CH__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_2101834380', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:16:13.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1167597957', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:16:41.000Z'}
+Stenosis_SAG__002.zip:Normal_SAG__006.zip
+Stenosis_SAG__002.zip Normal_SAG__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_564828679', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:17:22.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1701491367', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:18:29.000Z'}
+LVH_4CH__003.zip:Normal_4CH__000.zip
+LVH_4CH__003.zip Normal_4CH__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_851117752', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:18:44.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_495342962', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:19:13.000Z'}
+Stenosis_SAG__003.zip:Normal_SAG__000.zip
+Stenosis_SAG__003.zip Normal_SAG__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1944287623', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:20:09.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1814056690', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:21:05.000Z'}
+LVH_4CH__003.zip:Normal_4CH__001.zip
+LVH_4CH__003.zip Normal_4CH__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_515260273', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:21:25.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_269632970', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:21:45.000Z'}
+Stenosis_SAG__003.zip:Normal_SAG__001.zip
+Stenosis_SAG__003.zip Normal_SAG__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1622045868', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:22:44.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1576301239', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:23:43.000Z'}
+LVH_4CH__003.zip:Normal_4CH__002.zip
+LVH_4CH__003.zip Normal_4CH__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_607620991', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:24:04.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_947342970', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:24:31.000Z'}
+Stenosis_SAG__003.zip:Normal_SAG__002.zip
+Stenosis_SAG__003.zip Normal_SAG__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1765464705', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:25:09.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_111846279', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:25:51.000Z'}
+LVH_4CH__003.zip:Normal_4CH__004.zip
+LVH_4CH__003.zip Normal_4CH__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1971672644', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:26:12.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1613068948', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:26:31.000Z'}
+Stenosis_SAG__003.zip:Normal_SAG__004.zip
+Stenosis_SAG__003.zip Normal_SAG__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1488150211', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:27:33.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_2022578835', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:28:00.000Z'}
+LVH_4CH__003.zip:Normal_4CH__005.zip
+LVH_4CH__003.zip Normal_4CH__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_988395272', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:28:28.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_2081643133', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:28:56.000Z'}
+Stenosis_SAG__003.zip:Normal_SAG__005.zip
+Stenosis_SAG__003.zip Normal_SAG__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_236660219', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:29:44.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1257082864', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:30:50.000Z'}
+LVH_4CH__003.zip:Normal_4CH__006.zip
+LVH_4CH__003.zip Normal_4CH__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_758708928', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:31:10.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1490746107', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:31:37.000Z'}
+Stenosis_SAG__003.zip:Normal_SAG__006.zip
+Stenosis_SAG__003.zip Normal_SAG__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_368293287', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:32:20.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1950377631', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:32:42.000Z'}
+LVH_4CH__004.zip:Normal_4CH__000.zip
+LVH_4CH__004.zip Normal_4CH__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1682008088', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:33:05.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_113125859', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:33:25.000Z'}
+Stenosis_SAG__004.zip:Normal_SAG__000.zip
+Stenosis_SAG__004.zip Normal_SAG__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_729839281', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:34:25.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1795155187', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:35:25.000Z'}
+LVH_4CH__004.zip:Normal_4CH__001.zip
+LVH_4CH__004.zip Normal_4CH__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_4038270', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:35:45.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_291517400', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:36:14.000Z'}
+Stenosis_SAG__004.zip:Normal_SAG__001.zip
+Stenosis_SAG__004.zip Normal_SAG__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_2066959572', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:36:54.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_2077552536', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:37:54.000Z'}
+LVH_4CH__004.zip:Normal_4CH__002.zip
+LVH_4CH__004.zip Normal_4CH__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_419811072', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:38:14.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1059212541', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:38:44.000Z'}
+Stenosis_SAG__004.zip:Normal_SAG__002.zip
+Stenosis_SAG__004.zip Normal_SAG__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_346392414', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:39:42.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_153608879', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:40:44.000Z'}
+LVH_4CH__004.zip:Normal_4CH__003.zip
+LVH_4CH__004.zip Normal_4CH__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1958929082', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:41:12.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_799999092', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:41:23.000Z'}
+Stenosis_SAG__004.zip:Normal_SAG__003.zip
+Stenosis_SAG__004.zip Normal_SAG__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_873404979', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:42:24.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1398272053', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:43:26.000Z'}
+LVH_4CH__004.zip:Normal_4CH__005.zip
+LVH_4CH__004.zip Normal_4CH__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_652071877', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:43:57.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1793550871', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:44:27.000Z'}
+Stenosis_SAG__004.zip:Normal_SAG__005.zip
+Stenosis_SAG__004.zip Normal_SAG__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1496558579', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:45:29.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1100060247', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:46:11.000Z'}
+LVH_4CH__004.zip:Normal_4CH__006.zip
+LVH_4CH__004.zip Normal_4CH__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1504953655', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:46:33.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1269742915', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:47:03.000Z'}
+Stenosis_SAG__004.zip:Normal_SAG__006.zip
+Stenosis_SAG__004.zip Normal_SAG__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_351795491', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:48:03.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_535599347', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:48:48.000Z'}
+LVH_4CH__005.zip:Normal_4CH__000.zip
+LVH_4CH__005.zip Normal_4CH__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1633572958', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:49:00.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_343507108', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:49:29.000Z'}
+Stenosis_SAG__005.zip:Normal_SAG__000.zip
+Stenosis_SAG__005.zip Normal_SAG__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1185508603', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:50:13.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1765065262', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:50:55.000Z'}
+LVH_4CH__005.zip:Normal_4CH__001.zip
+LVH_4CH__005.zip Normal_4CH__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_86581127', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:51:23.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_973707475', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:51:51.000Z'}
+Stenosis_SAG__005.zip:Normal_SAG__001.zip
+Stenosis_SAG__005.zip Normal_SAG__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_966028357', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:52:53.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1094257323', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:53:37.000Z'}
+LVH_4CH__005.zip:Normal_4CH__002.zip
+LVH_4CH__005.zip Normal_4CH__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1656287508', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:53:57.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1075343227', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:54:25.000Z'}
+Stenosis_SAG__005.zip:Normal_SAG__002.zip
+Stenosis_SAG__005.zip Normal_SAG__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1916685345', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:55:24.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1684148752', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:56:14.000Z'}
+LVH_4CH__005.zip:Normal_4CH__003.zip
+LVH_4CH__005.zip Normal_4CH__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_887291578', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:56:33.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1755693039', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:56:58.000Z'}
+Stenosis_SAG__005.zip:Normal_SAG__003.zip
+Stenosis_SAG__005.zip Normal_SAG__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1827323636', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:57:23.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1065895563', u'name': u'Normal_SAG', u'created': u'2016-05-23T07:58:08.000Z'}
+LVH_4CH__005.zip:Normal_4CH__004.zip
+LVH_4CH__005.zip Normal_4CH__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1714878670', u'name': u'LVH_4CH', u'created': u'2016-05-23T07:58:28.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_896266060', u'name': u'Normal_4CH', u'created': u'2016-05-23T07:58:54.000Z'}
+Stenosis_SAG__005.zip:Normal_SAG__004.zip
+Stenosis_SAG__005.zip Normal_SAG__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1578256003', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T07:59:39.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1049337668', u'name': u'Normal_SAG', u'created': u'2016-05-23T08:00:04.000Z'}
+LVH_4CH__005.zip:Normal_4CH__006.zip
+LVH_4CH__005.zip Normal_4CH__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1031434684', u'name': u'LVH_4CH', u'created': u'2016-05-23T08:00:32.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1359836164', u'name': u'Normal_4CH', u'created': u'2016-05-23T08:00:52.000Z'}
+Stenosis_SAG__005.zip:Normal_SAG__006.zip
+Stenosis_SAG__005.zip Normal_SAG__006.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1709438787', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T08:01:52.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_970515596', u'name': u'Normal_SAG', u'created': u'2016-05-23T08:02:52.000Z'}
+LVH_4CH__006.zip:Normal_4CH__000.zip
+LVH_4CH__006.zip Normal_4CH__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1489744902', u'name': u'LVH_4CH', u'created': u'2016-05-23T08:03:19.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_2127869891', u'name': u'Normal_4CH', u'created': u'2016-05-23T08:03:40.000Z'}
+Stenosis_SAG__006.zip:Normal_SAG__000.zip
+Stenosis_SAG__006.zip Normal_SAG__000.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_505484173', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T08:04:40.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_187454446', u'name': u'Normal_SAG', u'created': u'2016-05-23T08:05:36.000Z'}
+LVH_4CH__006.zip:Normal_4CH__001.zip
+LVH_4CH__006.zip Normal_4CH__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1374867241', u'name': u'LVH_4CH', u'created': u'2016-05-23T08:05:55.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1493250989', u'name': u'Normal_4CH', u'created': u'2016-05-23T08:06:22.000Z'}
+Stenosis_SAG__006.zip:Normal_SAG__001.zip
+Stenosis_SAG__006.zip Normal_SAG__001.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1065745237', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T08:07:25.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1931337812', u'name': u'Normal_SAG', u'created': u'2016-05-23T08:08:13.000Z'}
+LVH_4CH__006.zip:Normal_4CH__002.zip
+LVH_4CH__006.zip Normal_4CH__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1264659313', u'name': u'LVH_4CH', u'created': u'2016-05-23T08:08:31.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_504234052', u'name': u'Normal_4CH', u'created': u'2016-05-23T08:08:50.000Z'}
+Stenosis_SAG__006.zip:Normal_SAG__002.zip
+Stenosis_SAG__006.zip Normal_SAG__002.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_1310355529', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T08:09:37.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_1542543977', u'name': u'Normal_SAG', u'created': u'2016-05-23T08:10:26.000Z'}
+LVH_4CH__006.zip:Normal_4CH__003.zip
+LVH_4CH__006.zip Normal_4CH__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_835328672', u'name': u'LVH_4CH', u'created': u'2016-05-23T08:10:47.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1024323514', u'name': u'Normal_4CH', u'created': u'2016-05-23T08:11:05.000Z'}
+Stenosis_SAG__006.zip:Normal_SAG__003.zip
+Stenosis_SAG__006.zip Normal_SAG__003.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_623295008', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T08:11:54.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_555834756', u'name': u'Normal_SAG', u'created': u'2016-05-23T08:12:54.000Z'}
+LVH_4CH__006.zip:Normal_4CH__004.zip
+LVH_4CH__006.zip Normal_4CH__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1832856156', u'name': u'LVH_4CH', u'created': u'2016-05-23T08:13:14.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1246152154', u'name': u'Normal_4CH', u'created': u'2016-05-23T08:13:25.000Z'}
+Stenosis_SAG__006.zip:Normal_SAG__004.zip
+Stenosis_SAG__006.zip Normal_SAG__004.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_241351854', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T08:14:09.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_473786413', u'name': u'Normal_SAG', u'created': u'2016-05-23T08:15:15.000Z'}
+LVH_4CH__006.zip:Normal_4CH__005.zip
+LVH_4CH__006.zip Normal_4CH__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'LVH_4CH_1850412219', u'name': u'LVH_4CH', u'created': u'2016-05-23T08:15:36.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_4CH_1021102158', u'name': u'Normal_4CH', u'created': u'2016-05-23T08:16:02.000Z'}
+Stenosis_SAG__006.zip:Normal_SAG__005.zip
+Stenosis_SAG__006.zip Normal_SAG__005.zip
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Stenosis_SAG_401504257', u'name': u'Stenosis_SAG', u'created': u'2016-05-23T08:17:08.000Z'}
+{u'owner': u'bfeb53f0-a666-4df4-97ba-f2857781a81a-au-syd', u'classifier_id': u'Normal_SAG_596096134', u'name': u'Normal_SAG', u'created': u'2016-05-23T08:17:57.000Z'}
